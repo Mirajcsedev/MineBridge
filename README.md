@@ -36,5 +36,8 @@ api-key: "tjcn13791o6dg2lsgd85v81fkp"
     },
     body: 'say Hello from the Dashboard!'
 });
-📜 Commands/mb reload - Reloads the configuration and restarts the API server.Permission: minebridge.admin🔨 BuildingBuilt with Maven.Clone the repo.Run mvn clean package.Locate the JAR in the /target directory.📄 LicenseDistributed under the MIT License. See LICENSE for more information.
+📜 Commands/mb reload - Reloads the configuration and restarts the API server.Permission: minebridge.admin🔨 BuildingBuilt with Maven.Clone the repo.Run mvn clean package.Locate the JAR in the /target directory.
 ---
+📄 LicenseDistributed under the MIT License. See LICENSE for more information. 
+
+This plugin make with help of ai vibe coding!!

@@ -1,0 +1,9 @@
+name: MineBridge
+main: com.minebridge.MineBridge
+version: 1.0.0
+api-version: '1.21'
+author: You
+commands:
+  mb:
+    description: Main command
+    permission: minebridge.admin
